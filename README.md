@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pyrenean
+- 👋 Hi, I’m @FrogMan
 - 👀 I’m interested in coding and games
 - 🌱 I’m currently learning how to code discord bots and other stuff
 

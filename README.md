@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @FrogMan
+- 👋 Hi, I’m @jbe05
 - 👀 I’m interested in coding and games
 - 🌱 I’m currently studying software development

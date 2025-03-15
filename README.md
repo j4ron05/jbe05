@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jbe05
-- 👀 I’m interested in coding and games
-- 🌱 Studying java
+- </> I love working on projects
+- </> Favorite language: Java
 
 ----
 
